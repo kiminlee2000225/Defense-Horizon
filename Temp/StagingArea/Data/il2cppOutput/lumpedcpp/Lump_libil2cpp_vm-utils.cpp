@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/NativeDelegateMethodCache.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"

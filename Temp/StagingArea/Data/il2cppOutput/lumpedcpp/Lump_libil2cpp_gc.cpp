@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"

@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/MonoPosixHelper.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/Users/kiminlee2000225/Downloads/Unity/2019.3.0f3/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
